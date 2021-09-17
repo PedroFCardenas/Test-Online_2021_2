@@ -4,6 +4,20 @@ You can use the [editor on GitHub](https://github.com/PedroFCardenas/Test-Online
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+<input type="button" value="Click me">
+### DEMO1 
+<a style="display: block; height: 100px; width: 500px; background: #606060; color: #ffffff; text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="http://eepurl.com/bUDMID">Sign me up!</a>
+
+
+## Pedro
+Boton demo
+<a style="display: block; height: 100px; width: 500px; background: #606060; color: #ffffff; text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="http://eepurl.com/bUDMID">Sign me up!</a>
+
+<a href="https://link1.com" style="color:#54bbff;text-decoration:none;border:2px solid #54bbff;border-radius:4px;padding:8px 14px;font-size:30px;">Link 1</a>
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
