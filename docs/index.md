@@ -4,6 +4,17 @@ You can use the [editor on GitHub](https://github.com/PedroFCardenas/Test-Online
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Tipo 
+<body>
+
+<h2>HTML Buttons</h2>
+<p>HTML buttons are defined with the button tag:</p>
+
+<button>Click me</button>
+
+</body>
+
+
 ### DEMO1
 
 <a style="display: block; height: 100px; width: 500px; background: #606060; color: #ffffff; text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="http://eepurl.com/bUDMID">Sign me up!</a>
