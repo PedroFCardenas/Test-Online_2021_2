@@ -31,6 +31,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PedroFCardenas/Test-Online_2021_2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### PEDRO Cardenas
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 ### Support or Contact
 
