@@ -1,8 +1,18 @@
-## Bienbenido a las pruebas de entrenamiento GITHUB
+## Bienvenido a las pruebas de entrenamiento GITHUB
 
 You can use the [editor on GitHub](https://github.com/PedroFCardenas/Test-Online_2021_2/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### DEMO1
+
+<a style="display: block; height: 100px; width: 500px; background: #606060; color: #ffffff; text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="http://eepurl.com/bUDMID">Sign me up!</a>
+
+
+
+### DEMO 2 IMAGEM
+<img src="Logo.png" alt="Girl in a jacket">
+
 
 ### Markdown
 
